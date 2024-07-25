@@ -22,7 +22,7 @@ In the near future, I would like to improve my knowledge in cybersecurity and/or
 
 ![](https://github-readme-stats.vercel.app/api?username=pauloeliezerg&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pauloeliezerg&theme=one_dark_pro&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=pauloeliezerg&theme=one_dark_pro&hide_border=false&border=3b4048)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloeliezerg&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
