@@ -1,4 +1,4 @@
-### Hey yourself 👋 (hope you're doing fine)
+### Hey, yourself! 👋 (hope you're doing fine)
 
 I'm Paulo, a technology enthusiast and someone who loves to accumulate new knowledge about anything, so feel free to tell me about something I don't know!
 
