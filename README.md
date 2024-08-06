@@ -2,7 +2,7 @@
 
 I'm Paulo, a technology enthusiast and someone who loves to accumulate new knowledge about anything, so feel free to tell me about something I don't know!
 
-I'm currently studying [Telematics Technology](https://ifce.edu.br/fortaleza/cursos/graduacao/tecnologicos/tecnologia-em-telematica) at [IFCE](https://ifce.edu.br/), also learning Generative AI through Bootcamp with AWS at [Trybe](https://www.betrybe.com/) and building a Web Development [portfolio](https://github.com/pauloeliezerg/trybe-exercises).
+I'm currently studying [Telematics Technology](https://ifce.edu.br/fortaleza/cursos/graduacao/tecnologicos/tecnologia-em-telematica) at [IFCE](https://ifce.edu.br/), and also learning [Cybersecurity](https://www.coursera.org/programs/trybe-google-learning-program-hrevt/professional-certificates/google-cybersecurity?collectionId=IiPR9) with Google and [Trybe](https://www.betrybe.com/), where I studied Web Development and participated in a Generative AI bootcamp in partnership with [AWS](https://aws.amazon.com/), and I'm now building a Web Development [portfolio](https://github.com/pauloeliezerg/trybe-exercises).
 
 In the near future, I would like to improve my knowledge in cybersecurity and/or data science and also in the languages ​​and tools indicated in the table below (in the _learning_ tab).
 
