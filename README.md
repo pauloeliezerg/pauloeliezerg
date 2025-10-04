@@ -17,7 +17,7 @@ Undergraduate in Telematics (IFCE, admitted 2024) focused on Data Science and so
 ---
 
 ## 🚀 Featured
-- **Car Price Prediction** — Analysis and predictive modeling of car prices using Python - 80%+ of the variance is explained by the predictive model. — `https://github.com/pauloeliezerg/car-price-prediction`  
+- **Car Price Prediction** — Analysis and predictive modeling of car prices using Python - 84%+ of the variance is explained by the predictive model. — `https://github.com/pauloeliezerg/car-price-analysis`  
 - **CATEL - Website** — Institutional website of the Academic Center for Telematics (IFCE - Fortaleza), Vite + React + TypeScript + Material UI — `https://github.com/pauloeliezerg/site-catel`
 - **Income Tax Organizer Tool** — Income Tax Return Organizer (Google Spreadsheets) — `https://github.com/pauloeliezerg/income_tax_organizer_tool`
 
